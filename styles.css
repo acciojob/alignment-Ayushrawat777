@@ -1,1 +1,8 @@
-/*  your css code here. If applicable */
+.middle{
+    padding: 1px;
+    margin: 1px;
+    border: 1px solid black;
+}
+td{
+    padding: 5px;
+}
