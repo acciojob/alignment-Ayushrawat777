@@ -1,5 +1,32 @@
-.middle{
-    padding: 1px;
-    margin: 1px;
-    border: 1px solid rgb(0, 0, 0);
-}
+ table {
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            text-align: left;
+        }
+
+        .middle {
+            margin: 20px auto;
+        }
+
+        .green {
+            background-color: green;
+        }
+
+        .blue {
+            background-color: blue;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .right {
+            text-align: right;
+        }
+		.left{
+		text-align:left;
+		}
+/*  your css code here. If applicable */
